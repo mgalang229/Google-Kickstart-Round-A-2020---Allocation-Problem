@@ -1,4 +1,4 @@
-# Google-Kickstart-Round-A-2020---Allocation-Problem
+# Google-Kickstart-Round-A-2020-Allocation-Problem
 <pre>
   Sample Input:
   3
